@@ -1,1 +1,1 @@
-print("this deeplearning ML model")
+print("this is logistic regression ML model")
